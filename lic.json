@@ -9,7 +9,12 @@
 			"user": "Il gradissimo Vincenzo Arricale",
 			"expires_utc": "2029-01-20T23:59:59Z",
 			"device_id": "424b414e-ab04-47c0-9f0c-20d969d681db"
+		},
+		{
+			"user": "Angelo Lo Sapio",
+			"expires_utc": "2026-07-30T23:59:59Z",
+			"device_id": "cb164c1d-6d2d-4ad7-bea7-c23709a22897"
 		}
 	],
-	"signature": "QYLWtaIQbcBKhKK3CSGave0RX1tY+uG0UDLfxVoB8J3Fk5vrhRm6jFFU6p6Ie52+rW+JQQ4GwtQA/py1A/jxTxBxmYJbMcDMZBLv4AsAOcSf5ws92JbWWjo8fG8r6BSiVLIsS1lT1NaDuiz634JD65NOcIcWQOruXnyWeZ+n/64BwWlwE5N3PQo+U0l0QulUyFxEviqsX657hRv6AfvB1+4xR+1yqzK21F1Cbv2/hVAHpCfHAieO/4BS/hRz2mUG9FeAawRsFMeWNGZMqy0qMk5175WRyeBGrkvT7wJoV9w+Qgr6Z/Q+Mx87JvTSswBbCXPPY92eWBc+WJ286Odx8w=="
+	"signature": "K2rtaaycUF7eby1N4dCoVsZgxg0Plwx4foXiaOW230dOI+PLcLCSzGefMXkgDv+DG0EemR3RZbT4FqGXrk7vaW89QeSH5qzsBN4i6Y4yZfnaQX+nnTux/DfgZaZ/UZRwn5sf3sU2SkzxQ/7NPPyTPWq/b99B53d1J37FdhTRL/HZ90ls8TSJY/VFcSK9cP9d/Np8AJdK3zSv53BS5u1MJk1rY+OjbcSdm2XuQgBHapWxR1UHKRLhxZ4qYw5FYnaFq4VgY6IgRy0DoBLlkyXUy9YdxKb7JqSRDh5w1kmGnsw2c6kGc3JGi6AxqysBs4zFqqyaD/Hherdr61TKA3WlGQ=="
 }
