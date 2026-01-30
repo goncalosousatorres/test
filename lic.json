@@ -1,10 +1,1 @@
-{
-  "licenses": [
-    {
-      "user": "Gonçalo Torres",
-      "expires_utc": "2026-07-31T23:59:59Z",
-      "device_id": "9df686dd-8ff2-457f-9a31-6d077b8b12de"
-    }
-  ],
-  "signature": "n9LuXgfNzqsYna41+Kn+OKTKibhLBTWjBW0rgy7TZfsv7i5B7SNeabF869P48YG237AW5DpY7WTQh2bg++3cBwZA58QLt02/yWoue6v+aoidS3zp9PCOIelTXLAyK6e69WYc4yC99V6MGONiWThjoxNZbriqL7gOKd8a7PueD9FnoCLaQsNUkLEFCb5HyCdUrQ1NEVIXR/Mr17EDWbC5RIsQta0ihyWPKs1DykrhjFnVyhAnuYSLYwxF3jZFw7hdoPExPfDo1Xi0QDa0bOAV9WjPvIzohoeF8ZpxstnJ3VH5qGCStL/JNKNT952S6WjDnrCk7Fxq+rjGzmfIgR7kPg=="
-}
+{"licenses":{"user":"Gonçalo Torres","expires_utc":"2026-07-31T23:59:59Z","device_id":"9df686dd-8ff2-457f-9a31-6d077b8b12de"},"signature":"BEX41QoUwh0HE5nNSY7kiHo3FHouNsx7F5Qa72CnrhK8YKG+w1q7MmhOk/rAec50321CTlf+5qVtFLAmz14WW5LJll8powTFW0j4GAB+MutEg6cOxJfgWUk6jVDE4Msa2i5uCGS/f27aMzNUNY6xXYOvqXF13ZUa8mRoEisMKLKLnKn1hfoxEtRZiI7UKRypHkU/vLlAARZjT+ChSND/Sm0ddIS3VGaypDNerUKHUfzOhLW1CCT8+xyqf0e6Xv3fl9XNksKh7J8/j7aWASWM30jhBye0SrT2bCI9RGbQg44BYbom7NS4bKOLr7xED8i2vWpSL1e/5FrN2vZahuNpDQ=="}
