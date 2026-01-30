@@ -1,1 +1,15 @@
-{"licenses":[{"user":"Gonçalo Torres","expires_utc":"2029-01-20T23:59:59Z","device_id":"9df686dd-8ff2-457f-9a31-6d077b8b12de"},{"user":"Il granissimo Vincenzo Arricale","expires_utc":"2029-01-20T23:59:59Z","device_id":"424b414e-ab04-47c0-9f0c-20d969d681db"}],"signature":"pVK3sXlqZ3JM5J5q7sFttVY19rM3a8+iZgP3mTQNXK7SbCc1LUQAaCtyKy7izMzBLfQwfSvPL32Ko+N1rmUnWuoIPBJe31SchQq5eIk7PxEtT1TRUzLJ5XPoEGWl7JVaLTXQ6LvLzheMsUODYhE1ciG5gtkQHPT285qxHtDbdeAksFz7h/5H7ujtJcteaxOrx2ArLMiTe7CvyLHGYHf/EhX4jGOcqG2X92HOlwg/sU55ivLsMEycRip0OVrOq+Qxd6Mpty13cCY0AMa2FRkQAbE96Z7PAe7IUHyeOk3bEaBTGiwyhuTB90vgPJmsMZC5eam+o6emY5DptKXosMG8Tw=="}
+{
+	"licenses": [
+		{
+			"user": "Gonçalo Torres",
+			"expires_utc": "2029-01-20T23:59:59Z",
+			"device_id": "9df686dd-8ff2-457f-9a31-6d077b8b12de"
+		},
+		{
+			"user": "Il gradissimo Vincenzo Arricale",
+			"expires_utc": "2029-01-20T23:59:59Z",
+			"device_id": "424b414e-ab04-47c0-9f0c-20d969d681db"
+		}
+	],
+	"signature": "QYLWtaIQbcBKhKK3CSGave0RX1tY+uG0UDLfxVoB8J3Fk5vrhRm6jFFU6p6Ie52+rW+JQQ4GwtQA/py1A/jxTxBxmYJbMcDMZBLv4AsAOcSf5ws92JbWWjo8fG8r6BSiVLIsS1lT1NaDuiz634JD65NOcIcWQOruXnyWeZ+n/64BwWlwE5N3PQo+U0l0QulUyFxEviqsX657hRv6AfvB1+4xR+1yqzK21F1Cbv2/hVAHpCfHAieO/4BS/hRz2mUG9FeAawRsFMeWNGZMqy0qMk5175WRyeBGrkvT7wJoV9w+Qgr6Z/Q+Mx87JvTSswBbCXPPY92eWBc+WJ286Odx8w=="
+}
