@@ -19,7 +19,12 @@
 			"user": "Daniele Cristofaro",
 			"expires_utc": "2026-07-30T23:59:59Z",
 			"device_id": "42ed5bee-7f3f-4b90-b22c-857ebb419878"
+		},
+		{
+			"user": "Il bello Matteo Romano",
+			"expires_utc": "2027-11-30T23:59:59Z",
+			"device_id": "368b0e62-8fb3-48f6-9dfa-3b6611ad3556"
 		}
 	],
-	"signature": "i37WaI40BHuXxwqSuhHR7MsflbBSERkRxkIS7cL1S1w2BmVZFAJeDu2TyapdJxo/sYOwg7cQiwYQDtguvFEywrMKLkayfQMWY2COB2IFAFX4pjcufYXwuj3bwNfVhuLFjbzyq8WFTmWEl/IuKXgA40Zyewl0ggMi472kxO7R3TxQ73WW7Q3rDgdXn5/mkoC+zKJgyD5IVSnbEvhXuB3hojWbqrJz6xNZOQhHZnC2aY6kn7WxVCxzdyzEA80gXfAOiXle3bFuF1N3i1uQXw5YRVuYqVg0zF4n8SBgF6pYj/5S4xcucumIj5y59FaN+zu5OvUSjL7i44vdElBooLYLgQ=="
+	"signature": "ADV6ylkR5P9f1WmSomV9mrXh/ohxVt4h0wac/rzssEXyPBB3B2XR+M9R7htpZPQ15omwC+ClbdTi7tVUcfkzvTtBgVImUldBLXwXZsBWPm7xO7u03g7ll6Restp4ypwosp8yXioWXZJH3Jx/q84xvX5KqMMWGRYtrTz0ffL2avRvdtLMEezshD55awXrxhGUjbJB6xEe7/Zt8wjwH8ClQIyw+1PvoTkohNreIdb4WSwPqy3p9s8+TT66Zj2XChwl6fFoGoco2Vj9XHMCTvUV8phluVsZaTThnJnXDMtUUMb5TxhwEcALsVUFYnegtONJZNm89mredleOq5OM3/Ii6A=="
 }
