@@ -24,7 +24,12 @@
 			"user": "Il bello Matteo Romano",
 			"expires_utc": "2027-11-30T23:59:59Z",
 			"device_id": "368b0e62-8fb3-48f6-9dfa-3b6611ad3556"
+		},
+		{
+			"user": "Chiara Milone",
+			"expires_utc": "2027-11-30T23:59:59Z",
+			"device_id": "ab83144d-98d1-414d-953a-13be841796a2"
 		}
 	],
-	"signature": "ADV6ylkR5P9f1WmSomV9mrXh/ohxVt4h0wac/rzssEXyPBB3B2XR+M9R7htpZPQ15omwC+ClbdTi7tVUcfkzvTtBgVImUldBLXwXZsBWPm7xO7u03g7ll6Restp4ypwosp8yXioWXZJH3Jx/q84xvX5KqMMWGRYtrTz0ffL2avRvdtLMEezshD55awXrxhGUjbJB6xEe7/Zt8wjwH8ClQIyw+1PvoTkohNreIdb4WSwPqy3p9s8+TT66Zj2XChwl6fFoGoco2Vj9XHMCTvUV8phluVsZaTThnJnXDMtUUMb5TxhwEcALsVUFYnegtONJZNm89mredleOq5OM3/Ii6A=="
+	"signature": "EXVr5ULOMdnmAeZDy+0SsnXPeEr+GI9/GC77HgzRpH9/auHiwKD86Rlt1jOXUvPK5e9NV/p7y3a9uBM13CRNGteH3yFm81zulcKUpS6Z8LLdLQtmvFyklmOc8M8ZKTXrfp+f2SiovwT8HbqB84CARWU2nuCe8u7NYMe1B3KrbHNR6XUggbeR66OydhfO08fJuc2mdQirlnxYc3faoPyVS5FcBHePkl1l6iCCTIZDf3XfyhEA3R7MYSZT7e7tojKT/YE7XSe4yukylfgzMfDX49y3Uq/I+iNmCwnbhpn9KdUOwL/qkJaYHj3jE1gEM8fl84wyvrFQ1WF3AN+6awwMsg=="
 }
