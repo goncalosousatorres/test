@@ -29,7 +29,12 @@
 			"user": "Chiara Milone",
 			"expires_utc": "2027-11-30T23:59:59Z",
 			"device_id": "ab83144d-98d1-414d-953a-13be841796a2"
+		},
+		{
+			"user": "Server 247",
+			"expires_utc": "2027-11-30T23:59:59Z",
+			"device_id": "4d005670-77b5-4587-b6be-2a1231d034c5"
 		}
 	],
-	"signature": "EXVr5ULOMdnmAeZDy+0SsnXPeEr+GI9/GC77HgzRpH9/auHiwKD86Rlt1jOXUvPK5e9NV/p7y3a9uBM13CRNGteH3yFm81zulcKUpS6Z8LLdLQtmvFyklmOc8M8ZKTXrfp+f2SiovwT8HbqB84CARWU2nuCe8u7NYMe1B3KrbHNR6XUggbeR66OydhfO08fJuc2mdQirlnxYc3faoPyVS5FcBHePkl1l6iCCTIZDf3XfyhEA3R7MYSZT7e7tojKT/YE7XSe4yukylfgzMfDX49y3Uq/I+iNmCwnbhpn9KdUOwL/qkJaYHj3jE1gEM8fl84wyvrFQ1WF3AN+6awwMsg=="
+	"signature": "dMdgTHJ4k5aQzYG+WKkU8qBUinnfQPPpls6oIY12QikjsNcxAbxb87og8ZmmA1/MBHxaJ5VLYAkTfbuI/XSZ+gPzB0xZ+Lz75Q+6Kqj/lcF2DzUuzZOeYvO6w+sLYOBxcVDDjQdAp9sqB8cAQrVy3al649LDgniWFouf/Z6zpprfw7hWj3xHAXc+fRe/HQwuJEIVbYVk2XxM6dM+ZX9Ncj8EyGEWDYioHNYmTny3jKq3mqw1zQQQdagR0bHYjwQzMpYEbFTSnGVNTwZhkOEPrklNd2UwvjuBtOeiowAhNnCop2pN4iKQSwl7xc9w+zLSsflap4HDgKXlQqCnDpgPvw=="
 }
