@@ -1,40 +1,45 @@
 {
-	"licenses": [
-		{
-			"user": "Gonçalo Torres",
-			"expires_utc": "2029-01-20T23:59:59Z",
-			"device_id": "9df686dd-8ff2-457f-9a31-6d077b8b12de"
-		},
-		{
-			"user": "Il gradissimo Vincenzo Arricale",
-			"expires_utc": "2029-01-20T23:59:59Z",
-			"device_id": "424b414e-ab04-47c0-9f0c-20d969d681db"
-		},
-		{
-			"user": "Angelo Lo Sapio",
-			"expires_utc": "2026-10-10T23:59:59Z",
-			"device_id": "cb164c1d-6d2d-4ad7-bea7-c23709a22897"
-		},
-		{
-			"user": "Daniele Cristofaro",
-			"expires_utc": "2026-07-30T23:59:59Z",
-			"device_id": "42ed5bee-7f3f-4b90-b22c-857ebb419878"
-		},
-		{
-			"user": "Il bello Matteo Romano",
-			"expires_utc": "2027-11-30T23:59:59Z",
-			"device_id": "368b0e62-8fb3-48f6-9dfa-3b6611ad3556"
-		},
-		{
-			"user": "Chiara Milone",
-			"expires_utc": "2027-11-30T23:59:59Z",
-			"device_id": "ab83144d-98d1-414d-953a-13be841796a2"
-		},
-		{
-			"user": "Server 247",
-			"expires_utc": "2027-11-30T23:59:59Z",
-			"device_id": "4d005670-77b5-4587-b6be-2a1231d034c5"
-		}
-	],
-	"signature": "n+ef5m888CEO243RKc/+H76Tzfn7vzRPiA4FpBC9o1svTNQxyMvezhfgDjiJx9nxJZqUPSR+w+xqPHFBhlBwJAaanWztCiNxKbORDRJkiyErjQt6/uu1im1Uhcl2zE6DfSjodxoe/u5lsSAWaHKx2U7JMEyFM1V6GZ1NW8d+HkPdZlgBBxkH3DH+ZWGIW5Bp72I7cCMdd6cfMj76binyLOrLyaKjPQAHLI2spOtlRn5oqwl9G8yYWEpjCIRMi8UL6Oic5SxnO1u/Ydx8VOtogobWh/USzMyk8f+m1WCnS6WsxAVQFaj+9xZmRM8ebjrkS9ExbGcHIjDzPTiYFAbufw=="
+    "licenses": [
+        {
+            "user": "Gonçalo Torres",
+            "expires_utc": "2029-01-20T23:59:59Z",
+            "device_id": "9df686dd-8ff2-457f-9a31-6d077b8b12de"
+        },
+        {
+            "user": "Il gradissimo Vincenzo Arricale",
+            "expires_utc": "2029-01-20T23:59:59Z",
+            "device_id": "424b414e-ab04-47c0-9f0c-20d969d681db"
+        },
+        {
+            "user": "Angelo Lo Sapio",
+            "expires_utc": "2026-10-10T23:59:59Z",
+            "device_id": "cb164c1d-6d2d-4ad7-bea7-c23709a22897"
+        },
+        {
+            "user": "Daniele Cristofaro",
+            "expires_utc": "2026-07-30T23:59:59Z",
+            "device_id": "42ed5bee-7f3f-4b90-b22c-857ebb419878"
+        },
+        {
+            "user": "Il bello Matteo Romano",
+            "expires_utc": "2027-11-30T23:59:59Z",
+            "device_id": "368b0e62-8fb3-48f6-9dfa-3b6611ad3556"
+        },
+        {
+            "user": "Chiara Milone",
+            "expires_utc": "2027-11-30T23:59:59Z",
+            "device_id": "ab83144d-98d1-414d-953a-13be841796a2"
+        },
+        {
+            "user": "Guido Napolitano",
+            "expires_utc": "2030-11-30T23:59:59Z",
+            "device_id": "b3240376-7813-42e0-8c7b-548e7a1d8eb1"
+        },
+        {
+            "user": "Server 247",
+            "expires_utc": "2027-11-30T23:59:59Z",
+            "device_id": "4d005670-77b5-4587-b6be-2a1231d034c5"
+        }
+    ],
+    "signature": "m/GgbfG3/YYye9RMMB3JlEUH2zow5WJlOdwIaO8JusT5ctbwZYbEveRmlzEieclh1Oxa/bRELWKgb47n9nVrp9pnnIp0aupKWcRt2A7A1H55aPWN/vcPR0emGZO8HsyWO1iCy129nIts6P0q1FpS9ttGHohIAnaE6PGw0tB/fe0qHVQKVTJ5PD8erlAzvVmqn8Ex2u3Pdt9KzD+giJog5def/1T+9BZ+FSQPMJxXN61ruS+Am5PtIno1ncSuqjVMeWJI6hNcxl5POHMKN4Z2Nq9zB8vC7GM71bMiAONbVQubYMtiuqEXoDvhl8GDMefA02S2yB9CJJaC1SK1xa68Fw=="
 }
