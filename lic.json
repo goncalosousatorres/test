@@ -36,10 +36,15 @@
             "device_id": "b3240376-7813-42e0-8c7b-548e7a1d8eb1"
         },
         {
+            "user": "Bruno Borriello",
+            "expires_utc": "2026-11-19T23:59:59Z",
+            "device_id": "5a1fc2ea-1c4f-4043-80db-45193e918f8f"
+        },
+        {
             "user": "Server 247",
             "expires_utc": "2027-11-30T23:59:59Z",
             "device_id": "4d005670-77b5-4587-b6be-2a1231d034c5"
         }
     ],
-    "signature": "m/GgbfG3/YYye9RMMB3JlEUH2zow5WJlOdwIaO8JusT5ctbwZYbEveRmlzEieclh1Oxa/bRELWKgb47n9nVrp9pnnIp0aupKWcRt2A7A1H55aPWN/vcPR0emGZO8HsyWO1iCy129nIts6P0q1FpS9ttGHohIAnaE6PGw0tB/fe0qHVQKVTJ5PD8erlAzvVmqn8Ex2u3Pdt9KzD+giJog5def/1T+9BZ+FSQPMJxXN61ruS+Am5PtIno1ncSuqjVMeWJI6hNcxl5POHMKN4Z2Nq9zB8vC7GM71bMiAONbVQubYMtiuqEXoDvhl8GDMefA02S2yB9CJJaC1SK1xa68Fw=="
+    "signature": "d/6ZED4xEgX4oqaoOPIBzshsRgzhKr7iNl0zaostMjcJ+wA2xWzXU6WlIrE/+Jgpc1wykTJCR/lFckFgtM5aUq8LplVAz9baXAniK4r4qFnMG79qMMHl57cMCTL9S3Qfz9uuqf2w+eeQbuYVUflUeTpZYPGna+GmRn5pAaDbbVNi9mIIPsvOsnhESjNvUg3uR5RuzEwADyBR313/r61MQiiQvikqIfIzLJFcLKn98WVl9AMKN7YMQCuXJC+biqbdow7CRuRPT9yxc9eCSzoeHiDuxsEElIgcENndlWsvuNv8/TKHcmynUbk52VqtsbdALEBYmfhlxVEGxfn+loKj3w=="
 }
