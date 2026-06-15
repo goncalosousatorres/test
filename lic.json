@@ -1,50 +1,55 @@
 {
-    "licenses": [
-        {
-            "user": "Gonçalo Torres",
-            "expires_utc": "2029-01-20T23:59:59Z",
-            "device_id": "9df686dd-8ff2-457f-9a31-6d077b8b12de"
-        },
-        {
-            "user": "Il gradissimo Vincenzo Arricale",
-            "expires_utc": "2029-01-20T23:59:59Z",
-            "device_id": "424b414e-ab04-47c0-9f0c-20d969d681db"
-        },
-        {
-            "user": "Angelo Lo Sapio",
-            "expires_utc": "2026-10-10T23:59:59Z",
-            "device_id": "cb164c1d-6d2d-4ad7-bea7-c23709a22897"
-        },
-        {
-            "user": "Daniele Cristofaro",
-            "expires_utc": "2026-07-30T23:59:59Z",
-            "device_id": "42ed5bee-7f3f-4b90-b22c-857ebb419878"
-        },
-        {
-            "user": "Il bello Matteo Romano",
-            "expires_utc": "2027-11-30T23:59:59Z",
-            "device_id": "368b0e62-8fb3-48f6-9dfa-3b6611ad3556"
-        },
-        {
-            "user": "Chiara Milone",
-            "expires_utc": "2027-11-30T23:59:59Z",
-            "device_id": "ab83144d-98d1-414d-953a-13be841796a2"
-        },
-        {
-            "user": "Guido Napolitano",
-            "expires_utc": "2030-11-30T23:59:59Z",
-            "device_id": "b3240376-7813-42e0-8c7b-548e7a1d8eb1"
-        },
-        {
-            "user": "Bruno Borriello",
-            "expires_utc": "2026-11-19T23:59:59Z",
-            "device_id": "5a1fc2ea-1c4f-4043-80db-45193e918f8f"
-        },
-        {
-            "user": "Server 247",
-            "expires_utc": "2027-11-30T23:59:59Z",
-            "device_id": "4d005670-77b5-4587-b6be-2a1231d034c5"
-        }
-    ],
-    "signature": "d/6ZED4xEgX4oqaoOPIBzshsRgzhKr7iNl0zaostMjcJ+wA2xWzXU6WlIrE/+Jgpc1wykTJCR/lFckFgtM5aUq8LplVAz9baXAniK4r4qFnMG79qMMHl57cMCTL9S3Qfz9uuqf2w+eeQbuYVUflUeTpZYPGna+GmRn5pAaDbbVNi9mIIPsvOsnhESjNvUg3uR5RuzEwADyBR313/r61MQiiQvikqIfIzLJFcLKn98WVl9AMKN7YMQCuXJC+biqbdow7CRuRPT9yxc9eCSzoeHiDuxsEElIgcENndlWsvuNv8/TKHcmynUbk52VqtsbdALEBYmfhlxVEGxfn+loKj3w=="
+  "licenses": [
+    {
+      "user": "Gonçalo Torres",
+      "expires_utc": "2029-01-20T23:59:59Z",
+      "device_id": "9df686dd-8ff2-457f-9a31-6d077b8b12de"
+    },
+    {
+      "user": "Il gradissimo Vincenzo Arricale",
+      "expires_utc": "2029-01-20T23:59:59Z",
+      "device_id": "424b414e-ab04-47c0-9f0c-20d969d681db"
+    },
+    {
+      "user": "Angelo Lo Sapio",
+      "expires_utc": "2026-10-10T23:59:59Z",
+      "device_id": "cb164c1d-6d2d-4ad7-bea7-c23709a22897"
+    },
+    {
+      "user": "Daniele Cristofaro",
+      "expires_utc": "2026-07-30T23:59:59Z",
+      "device_id": "42ed5bee-7f3f-4b90-b22c-857ebb419878"
+    },
+    {
+      "user": "Il bello Matteo Romano",
+      "expires_utc": "2027-11-30T23:59:59Z",
+      "device_id": "368b0e62-8fb3-48f6-9dfa-3b6611ad3556"
+    },
+    {
+      "user": "Chiara Milone",
+      "expires_utc": "2027-11-30T23:59:59Z",
+      "device_id": "ab83144d-98d1-414d-953a-13be841796a2"
+    },
+    {
+      "user": "Guido Napolitano",
+      "expires_utc": "2030-11-30T23:59:59Z",
+      "device_id": "b3240376-7813-42e0-8c7b-548e7a1d8eb1"
+    },
+    {
+      "user": "Bruno Borriello",
+      "expires_utc": "2026-11-19T23:59:59Z",
+      "device_id": "5a1fc2ea-1c4f-4043-80db-45193e918f8f"
+    },
+    {
+      "user": "Server 247",
+      "expires_utc": "2027-11-30T23:59:59Z",
+      "device_id": "4d005670-77b5-4587-b6be-2a1231d034c5"
+    },
+    {
+      "user": "Innocenzo Donnarumma",
+      "expires_utc": "2026-12-15T23:59:59Z",
+      "device_id": "14e6324f-0cb8-4218-b7f0-294997a1b324"
+    }
+  ],
+  "signature": "oXvkYHacRICGRL7DE06ECBiVZ7mXIBhXsox/ZjUbetnrGmuB9SJTdyRAwPK4+eAp7Hgt2tM4qyyqoydce9D2WrlvLCjXTdYY/8W1CIFpj5h5sdUBAaUec/ps/DK7PHXYaZK07VqTWrOPWkUsqEN3OngaL1I9dpn51xyyM1sb6QhCBqWfjdKhXH5E+RR+J9fonLTziE8RDh0DBewRl+iwJaM+WGqxUveVUnSUrt+sBc2snfCCW05MU/BqwvXwRdw6NGCv1DhRKDlsQPxDcOKLfzzJsgpHS7cpJqZHrKsZabYU2gM7sdzkuDLpvqe/muCMIF75Gq6GFvbf7ByIxDX0Vg=="
 }
