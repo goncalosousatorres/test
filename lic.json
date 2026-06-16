@@ -49,7 +49,12 @@
       "user": "Innocenzo Donnarumma",
       "expires_utc": "2026-12-15T23:59:59Z",
       "device_id": "14e6324f-0cb8-4218-b7f0-294997a1b324"
+    },
+    {
+      "user": "Lucio Angelillo",
+      "expires_utc": "2027-12-15T23:59:59Z",
+      "device_id": "0fc94581-05c5-4f02-9059-82ab8f25176a"
     }
   ],
-  "signature": "oXvkYHacRICGRL7DE06ECBiVZ7mXIBhXsox/ZjUbetnrGmuB9SJTdyRAwPK4+eAp7Hgt2tM4qyyqoydce9D2WrlvLCjXTdYY/8W1CIFpj5h5sdUBAaUec/ps/DK7PHXYaZK07VqTWrOPWkUsqEN3OngaL1I9dpn51xyyM1sb6QhCBqWfjdKhXH5E+RR+J9fonLTziE8RDh0DBewRl+iwJaM+WGqxUveVUnSUrt+sBc2snfCCW05MU/BqwvXwRdw6NGCv1DhRKDlsQPxDcOKLfzzJsgpHS7cpJqZHrKsZabYU2gM7sdzkuDLpvqe/muCMIF75Gq6GFvbf7ByIxDX0Vg=="
+  "signature": "ZGHXEi47maHVwDKPUpKEFDLO1Lp1zo1z9RIBy2NYp7pE6i5swGJsZOLRm0ksRy0MndPlQtKq+T4DGvtQ0zmZqmmw1g2m7InivnIWONa6qOYOpoekqrbPkiWsH8iiGJYyRP0LxzF4eHsyv+msQ9JYjWpwF0eT+91u+0sQL2q7guhwghqZFg3hWGlw+jv8WQdYpV7GKHAkNQBzzGB5En2PC7xBDAJ/iNk2cgU6x3ZyVECuZEpMUMb1uzrLLYhDDTNe/4S+jAQ0UZB7HU7P8lXLKv4KSfJnguywjex3ssyoAVW7G9Z2slBgti08RTK18qkDuoIUMJ3wnJ5GljtunfYb5A=="
 }
