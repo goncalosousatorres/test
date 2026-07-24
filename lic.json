@@ -1,12 +1,11 @@
-{
-   "licenses":[
+"licenses":[
       {
          "user":"Gonçalo Torres",
          "expires_utc":"2029-01-20T23:59:59Z",
          "device_id":"9df686dd-8ff2-457f-9a31-6d077b8b12de"
       },
       {
-         "user":"Vincenzo Arricale",
+         "user":"Il gradissimo Vincenzo Arricale",
          "expires_utc":"2029-01-20T23:59:59Z",
          "device_id":"424b414e-ab04-47c0-9f0c-20d969d681db"
       },
@@ -62,4 +61,3 @@
       }
    ],
    "signature":"DISf9GQEzntCy1xDk/zCyynTwujXMoX18ayIxU5bAad8SMdYatEreWffXzJYADoxD0qkjs/dsfG4kdwgLw+QnaF8WKfZeDIVacxi+aoz5JQxQYVca9JtDX2s9qY11EhBROEIMrzACizOS9nZkuBhOhpWGfGXsIZjdTw400EV681ivBq3W2lUgY9vaArZdeV9Hc1GN6/r6MMHYHoX5lZ8Cz7VmyQOxiN16IE8+346JuEdyZLwCB4FHHb6DsWgjrmV+OtYFzZTdEvCL7Q6CdmNXeivySjjABN0BXf8qFnODI0UtDVPjrlIy+THBDXtx5BzFMwSyJ0OLx9sdvBzDqLG1A=="
-}
