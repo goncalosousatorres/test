@@ -54,7 +54,12 @@
       "user": "Lucio Angelillo",
       "expires_utc": "2027-12-15T23:59:59Z",
       "device_id": "0fc94581-05c5-4f02-9059-82ab8f25176a"
+    },
+    {
+      "user": "Pasquale De Micco",
+      "expires_utc": "2027-12-15T23:59:59Z",
+      "device_id": "3860f9f4-7cc5-49d6-8f06-b3e2878f3338"
     }
   ],
-  "signature": "ZGHXEi47maHVwDKPUpKEFDLO1Lp1zo1z9RIBy2NYp7pE6i5swGJsZOLRm0ksRy0MndPlQtKq+T4DGvtQ0zmZqmmw1g2m7InivnIWONa6qOYOpoekqrbPkiWsH8iiGJYyRP0LxzF4eHsyv+msQ9JYjWpwF0eT+91u+0sQL2q7guhwghqZFg3hWGlw+jv8WQdYpV7GKHAkNQBzzGB5En2PC7xBDAJ/iNk2cgU6x3ZyVECuZEpMUMb1uzrLLYhDDTNe/4S+jAQ0UZB7HU7P8lXLKv4KSfJnguywjex3ssyoAVW7G9Z2slBgti08RTK18qkDuoIUMJ3wnJ5GljtunfYb5A=="
+  "signature": "X30XMA+D4j9z1spKmW+yXvIf0fW359rVCKKa/sUSp2UfyxPggjFozpDCEn36C95p5i555W50HTZ9x+F9kGa46ed8K/+lju2UMjcdIoqTWcvatGLOHBULfO9xpe2Owujp5XMTJIUOUFKxWGV1jkOmVAOKWAl1mwJjBCSf4Vp1uGCkWhvKqrbnHizsWVJLU2tBxikBTrDhXiLg7o2c6Xu7qnvZXZU1GPqdkzKmN/3E06gHTjH1EUU0MR3Ba/tlHhNvz0nrnI3vyoID2TWjt3QDOMhdj1aIUaZ5VDv9/QKRPbgNc6GT96qrr1fzOItmoVt3fQAdGFR+LSJtzQaO4ueDbA=="
 }
