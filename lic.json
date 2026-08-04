@@ -1,65 +1,70 @@
 {
-  "licenses": [
-    {
-      "user": "Gonçalo Torres",
-      "expires_utc": "2029-01-20T23:59:59Z",
-      "device_id": "9df686dd-8ff2-457f-9a31-6d077b8b12de"
-    },
-    {
-      "user": "Il gradissimo Vincenzo Arricale",
-      "expires_utc": "2029-01-20T23:59:59Z",
-      "device_id": "424b414e-ab04-47c0-9f0c-20d969d681db"
-    },
-    {
-      "user": "Angelo Lo Sapio",
-      "expires_utc": "2026-10-10T23:59:59Z",
-      "device_id": "cb164c1d-6d2d-4ad7-bea7-c23709a22897"
-    },
-    {
-      "user": "Daniele Cristofaro",
-      "expires_utc": "2026-07-30T23:59:59Z",
-      "device_id": "42ed5bee-7f3f-4b90-b22c-857ebb419878"
-    },
-    {
-      "user": "Il bello Matteo Romano",
-      "expires_utc": "2027-11-30T23:59:59Z",
-      "device_id": "368b0e62-8fb3-48f6-9dfa-3b6611ad3556"
-    },
-    {
-      "user": "Chiara Milone",
-      "expires_utc": "2027-11-30T23:59:59Z",
-      "device_id": "ab83144d-98d1-414d-953a-13be841796a2"
-    },
-    {
-      "user": "Guido Napolitano",
-      "expires_utc": "2030-11-30T23:59:59Z",
-      "device_id": "b3240376-7813-42e0-8c7b-548e7a1d8eb1"
-    },
-    {
-      "user": "Bruno Borriello",
-      "expires_utc": "2026-11-19T23:59:59Z",
-      "device_id": "5a1fc2ea-1c4f-4043-80db-45193e918f8f"
-    },
-    {
-      "user": "Server 247",
-      "expires_utc": "2027-11-30T23:59:59Z",
-      "device_id": "4d005670-77b5-4587-b6be-2a1231d034c5"
-    },
-    {
-      "user": "Innocenzo Donnarumma",
-      "expires_utc": "2026-12-15T23:59:59Z",
-      "device_id": "14e6324f-0cb8-4218-b7f0-294997a1b324"
-    },
-    {
-      "user": "Lucio Angelillo",
-      "expires_utc": "2027-12-15T23:59:59Z",
-      "device_id": "0fc94581-05c5-4f02-9059-82ab8f25176a"
-    },
-    {
-      "user": "Pasquale De Micco",
-      "expires_utc": "2027-12-15T23:59:59Z",
-      "device_id": "3860f9f4-7cc5-49d6-8f06-b3e2878f3338"
-    }
-  ],
-  "signature": "X30XMA+D4j9z1spKmW+yXvIf0fW359rVCKKa/sUSp2UfyxPggjFozpDCEn36C95p5i555W50HTZ9x+F9kGa46ed8K/+lju2UMjcdIoqTWcvatGLOHBULfO9xpe2Owujp5XMTJIUOUFKxWGV1jkOmVAOKWAl1mwJjBCSf4Vp1uGCkWhvKqrbnHizsWVJLU2tBxikBTrDhXiLg7o2c6Xu7qnvZXZU1GPqdkzKmN/3E06gHTjH1EUU0MR3Ba/tlHhNvz0nrnI3vyoID2TWjt3QDOMhdj1aIUaZ5VDv9/QKRPbgNc6GT96qrr1fzOItmoVt3fQAdGFR+LSJtzQaO4ueDbA=="
+	"licenses": [
+		{
+			"user": "Gonçalo Torres",
+			"expires_utc": "2029-01-20T23:59:59Z",
+			"device_id": "9df686dd-8ff2-457f-9a31-6d077b8b12de"
+		},
+		{
+			"user": "Il gradissimo Vincenzo Arricale",
+			"expires_utc": "2029-01-20T23:59:59Z",
+			"device_id": "424b414e-ab04-47c0-9f0c-20d969d681db"
+		},
+		{
+			"user": "Angelo Lo Sapio",
+			"expires_utc": "2026-10-10T23:59:59Z",
+			"device_id": "cb164c1d-6d2d-4ad7-bea7-c23709a22897"
+		},
+		{
+			"user": "Daniele Cristofaro",
+			"expires_utc": "2026-07-30T23:59:59Z",
+			"device_id": "42ed5bee-7f3f-4b90-b22c-857ebb419878"
+		},
+		{
+			"user": "Il bello Matteo Romano",
+			"expires_utc": "2027-11-30T23:59:59Z",
+			"device_id": "368b0e62-8fb3-48f6-9dfa-3b6611ad3556"
+		},
+		{
+			"user": "Chiara Milone",
+			"expires_utc": "2027-11-30T23:59:59Z",
+			"device_id": "ab83144d-98d1-414d-953a-13be841796a2"
+		},
+		{
+			"user": "Guido Napolitano",
+			"expires_utc": "2030-11-30T23:59:59Z",
+			"device_id": "b3240376-7813-42e0-8c7b-548e7a1d8eb1"
+		},
+		{
+			"user": "Bruno Borriello",
+			"expires_utc": "2026-11-19T23:59:59Z",
+			"device_id": "5a1fc2ea-1c4f-4043-80db-45193e918f8f"
+		},
+		{
+			"user": "Server 247",
+			"expires_utc": "2027-11-30T23:59:59Z",
+			"device_id": "4d005670-77b5-4587-b6be-2a1231d034c5"
+		},
+		{
+			"user": "Innocenzo Donnarumma",
+			"expires_utc": "2026-12-15T23:59:59Z",
+			"device_id": "14e6324f-0cb8-4218-b7f0-294997a1b324"
+		},
+		{
+			"user": "Lucio Angelillo",
+			"expires_utc": "2027-12-15T23:59:59Z",
+			"device_id": "0fc94581-05c5-4f02-9059-82ab8f25176a"
+		},
+		{
+			"user": "Pasquale De Micco",
+			"expires_utc": "2027-12-15T23:59:59Z",
+			"device_id": "3860f9f4-7cc5-49d6-8f06-b3e2878f3338"
+		},
+		{
+			"user": "Francesca Santella",
+			"expires_utc": "2028-02-04T23:59:59Z",
+			"device_id": "f3bb75e9-4b1a-47f0-a805-e5fe9bc069eb"
+		}
+	],
+	"signature": "dhGdohyN+ZIX+Zl9qQWnmLUHWeuPtp9JJlpiveld6cDHGFFj8ovYLFKAB1HK7QH3A/FSgU3PSvCX0poGdns/b//XHPtXB/PmD/6jyd9lVKzPPrfKJeQ0VU6vLRsrzpYcZClOq0C4uiDWOqSA93x0wL5PLQXsAP6FW4t9JTVydpKyh/M1jqBbbskzXBMoLR3SfW75SYpiuzkLJmTn/Stm8V6263hFmKK185Tyr1xDKVRRh7taX+RKwrjCfQ+cMrs0u79Ij9DU8VYlsaCsPpP2htHoCV9YMDhVn4iaDqatqym9THcq853TRdUwNTl3holNzZ63W3IOpfZ0lvqfZSc9lA=="
 }
