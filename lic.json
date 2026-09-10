@@ -2,7 +2,7 @@
 	"licenses": [
 		{
 			"user": "Gonçalo Torres",
-			"expires_utc": "2029-01-20T23:59:59Z",
+			"expires_utc": "2028-01-20T23:59:59Z",
 			"device_id": "9df686dd-8ff2-457f-9a31-6d077b8b12de"
 		},
 		{
@@ -64,7 +64,12 @@
 			"user": "Francesca Santella",
 			"expires_utc": "2027-02-04T23:59:59Z",
 			"device_id": "f3bb75e9-4b1a-47f0-a805-e5fe9bc069eb"
+		},
+		{
+			"user": "Charlie Lanard",
+			"expires_utc": "2027-12-31T23:59:59Z",
+			"device_id": "bdf5dddb-08d4-4ac0-bea0-2d0aef857afa"
 		}
 	],
-	"signature": "aHyaAV4sGtIxgwMjMDrGqIELvetfPo3+2BnxGAFNAsUDlnnILS6uBDqyq3rciDUTYoc/G4tdUqkhdC8WOqM5azas7gFeQtCTLVBTBbJ++2xIrG8T5nMm/235QsgVm5c4c8rAwzlrrLWQS5a/zFsAJ0D59r16OjDie0pgU/jo2jkp6qPedHrdwdFOw1iCcOaE0lDWThqJxNbTKnDTUOBOp9NGhI62tDNjDEH108W25C0gooHhi1LOfFw7aAMHfXkmy2Ur1c/ORoPBXdTEB6gYz/ZJmpaUgFRqcLNI9r4LXWo5LS5QE0OZd0ImCfUoIN7+/dN0kNkCxR8SXBCeDwvaCg=="
+	"signature": "iWImL9xuEHsI60ZScl4ULNZOP5m4Xak18mQaPcmRFaFpqG3At/lnPyoXlWuwLcA8BroLsGwQgKLoFz8GWCxQT/PMEY6R7OqX8gxDvZ+seXhKCZs0LU/9FtUh72NR6k3lWJtsnErxV1JBOUpbRNwhC0+1wZrPzX4nNcI2oM/a97sWCSGq4jPRxlS7Y6BVBG3Xx2MP3MCtnLc+b8NY7YBzXsNNNwangFAvzziYfGF6mWStlpTx1LAE8ht57YEnl5MgnZXzFOs3GeJ9zTY5ZxAhg4Kprfl8iMTVY3Z9afX0qxOIzFZnibPb8v+pve1jmjcoYO2NIgT8mq2kqXeUosMUgw=="
 }
