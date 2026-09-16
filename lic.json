@@ -12,7 +12,7 @@
 		},
 		{
 			"user": "Angelo Lo Sapio",
-			"expires_utc": "2026-10-10T23:59:59Z",
+			"expires_utc": "2027-10-10T23:59:59Z",
 			"device_id": "cb164c1d-6d2d-4ad7-bea7-c23709a22897"
 		},
 		{
@@ -76,5 +76,5 @@
 			"device_id": "6d3a2618-bdf1-4b2c-9d5d-aabf7c824530"
 		}
 	],
-	"signature": "Q0UOrhoc4qrqukqRMq7F/9alU9v/LQ0CVRE3B2b5AQff7pzHU/QyfRwQba20b24Hgv3ajBbX+94afE/DnoQLl8r6SfptIhoy4Yx7kAw7yvga2nxqnFQIZVCuvrK7EZEgt1H06CDs99ooI/KIZT2moPZmDxXwyzI2+h0l+jbqaMn9VfTOyDqPEWRQvBLYuun3eZXi6B6PWfIZ/zsMBm5oyylJ6FC+RXnAfwOLYMut/tR1F6HMQkmfWgLHESLXPcfF9YTPZ7fvAr675xD/+qQUe78IGXAwEnDoyiuz85Ozw3opg+t5ihvhg0lqcD7IOEt5+pgSee2BAXyeQNZR9BG7DA=="
+	"signature": "X0jBgxG2dN/DIP6a/Wmqgrc8AIM/6DbS5N9mVKlAQuO/1mZ+C8uUwN0YUOwb0hcMt24/IHkMTnI8/DobgVNEVHfqppaTxBIAlEvD2L+cAPMnUQNAvPFM8N68j5A99phsxakqzMLDwEHZ2t8FmfXBhRgXg2pJ4sTepXxlx8OHOn1eVJ9A/jUnYw1y4MDlViK+0bikDYghpMf/7+Ax5AG0q6RTyy55GRiP9g9WnX+Zr3xP/h7Hi9kET3oDy3S1UBlTz/g8bX+o1dHkVZyEgpbZXTaqL9If0asBy9YxvH+kuytUhni6Qipr46ttR9zPADgUPtu9ZyzkfZAGgR5zRUZRjA=="
 }
