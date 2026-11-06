@@ -74,7 +74,12 @@
 			"user": "Aditya Dadia",
 			"expires_utc": "2027-06-13T23:59:59Z",
 			"device_id": "6d3a2618-bdf1-4b2c-9d5d-aabf7c824530"
+		},
+		{
+			"user": "Felice",
+			"expires_utc": "2027-05-06T23:59:59Z",
+			"device_id": "7e393bac-ee20-4628-9a3e-3c95d67cd41d"
 		}
 	],
-	"signature": "FKun/setpjwqtxOOlNkzoDWtL02CP6cogAgagBAA4jTnN5r2BXAav/M1q3ZHwfX3T0wbZRY/9gi5nKooK/t11zv1gZttMDP7/iIEzaRnj/8q12d9S1PJz2SejR7t2cuR/ITO8tA9LM+MBcVS6jGcrBQGMlerCct/MucWbsuXyTi/+yp7Q6haDAsJoOffLo5U+AZhhqP8EgAqWhs9Rn95E2BXdMqs22B6lmZNMtcZ8wg/2dCXzYH/Fx302EwT3Cd8EQrsSOBgONgcEggDbaVIIvef40TtFwlazfq1Z0vIVCGpaf/T0ySPqN3pcI2pPb3N3tTacNjCLQDCf6/JrX5Zwg=="
+	"signature": "AMYWz46+XMYY/RPlL9ACPgbTe2/h2F7GM0yogQY6nRGNKKnPzGFkhHPbSCjqW8NJt2sKgYBAiWJ9BDQXeVK6cASDCvs3e4kS2VsbspJlKY0MA9TNwiTriI6k2jtJyfmvxNef0waTzcBqbS6xxCSr3Eg3hTo7LWgWQLaCciYMU7PLN3rhf/t91jUzT5p9WPqcgQ/H15ifABxKdF2txWSAfDsgUGXxWZvC+PWbWfMv4rmwlxoJzdQOymnvYCWdIbkdC12iIRGs8dT+LCwKFgV2FKiPsnjVjKsb6d/yb4cW5EqS+4euB2obnJWEc/2dMIj61HGEu5V33dDgwFeWS1/Q6g=="
 }
