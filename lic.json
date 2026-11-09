@@ -79,7 +79,12 @@
 			"user": "Felice",
 			"expires_utc": "2027-05-06T23:59:59Z",
 			"device_id": "7e393bac-ee20-4628-9a3e-3c95d67cd41d"
+		},
+		{
+			"user": "Vincenzo Russo",
+			"expires_utc": "2027-05-06T23:59:59Z",
+			"device_id": "d2cafc52-5f0c-4932-ae59-f26051b1c187"
 		}
 	],
-	"signature": "AMYWz46+XMYY/RPlL9ACPgbTe2/h2F7GM0yogQY6nRGNKKnPzGFkhHPbSCjqW8NJt2sKgYBAiWJ9BDQXeVK6cASDCvs3e4kS2VsbspJlKY0MA9TNwiTriI6k2jtJyfmvxNef0waTzcBqbS6xxCSr3Eg3hTo7LWgWQLaCciYMU7PLN3rhf/t91jUzT5p9WPqcgQ/H15ifABxKdF2txWSAfDsgUGXxWZvC+PWbWfMv4rmwlxoJzdQOymnvYCWdIbkdC12iIRGs8dT+LCwKFgV2FKiPsnjVjKsb6d/yb4cW5EqS+4euB2obnJWEc/2dMIj61HGEu5V33dDgwFeWS1/Q6g=="
+	"signature":"K8T/v6LN9g1a9eJ6YdBXY9w+2yM4EoMeIH3CvnX2xZlgJ1/RcjScgX6JkNovOv1H6wJfZbxxmU2+O8NAy3AKQo9IP+7J3b6oEVZNZyGtZ+sWQcm3mUgW435avqwEjUa4a2U/tF5wp7UJOWd0BM5lRhUNXqqA4dAVvj6yqZCt9r1RQfbouYZ7Xjs7AwWvoi29mhYmmC9kcjDwPTgKkSmVHT8tsRCBk+awZcK0cXOV6lZ4iKT/pXcrQxHvBkUY9UFvb40d1s4zt4HPfrGXhotWcY17dgaF6lSfXnVlIprOOZBshvMDwQ0hvU89UMeUrPwp4E8/qZXicFS8E3oWcjj7uQ=="
 }
